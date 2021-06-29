@@ -20,11 +20,11 @@ Para:
 Para:
   Characters for Cortex
 
-#### Armada - Latin names/words
-- High commander: Empyrean (latin: heaven)
+#### Armada - Latin names/words (roman emperors in particular)
+- High commander: Avitus (Roman emperor)
 - Ethical/Moral adjudicator: Mandator (latin: command), Iudex (ee-you-dex) (latin: judge)
-- Infosec coordiantor: Pignus (pin-yous) (latin: security)
-- Traitor: Proditone (prod - ee - t - yor - neh) latin: betrayal)
+- Infosec coordiantor: Glycerius
+- Traitor: Visigoth
 
 Discarded: Brutus, Proditor (traitor), 
 
@@ -32,7 +32,7 @@ Discarded: Brutus, Proditor (traitor),
 - Emperor: Catreus
 - Hunter seeker: Minos
 - Mad scientist: Hegesias (https://en.wikipedia.org/wiki/Hegesias_of_Cyrene)
-- Traitor: Agrippa 
+- Traitor: Agrippa
 
 Other names to use: Persephone (goddess of life and death), Heirocles
 
