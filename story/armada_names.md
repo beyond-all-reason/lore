@@ -7,3 +7,5 @@
 Discarded: Brutus, Proditor (traitor)
 
 - Salvator - Saviour, discovered and saved the Raptors
+- Aurelius- The golden one
+- Remus - Nemesis of Alecto
