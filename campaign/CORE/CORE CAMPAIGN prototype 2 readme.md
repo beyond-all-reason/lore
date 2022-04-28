@@ -1,3 +1,4 @@
+
 CORE CAMPAIGN prototype 2
 
 # INTRO WALL OF TEXT #
@@ -84,5 +85,20 @@ most of you would be wondering why I would include this and normally think that 
 As such when considering balance changes, it is heavily reccomended that you keep a campaign balance and a multiplayer balance. This is to help minimize balance changes from severely affecting how a mission plays out, or making such missions a joke/nightmare to play.
 
 
-<br></br>
-777777777
+## additional notes
+<br>
+
+### standard start definition ###
+this is a catch all for 
+
+
+at this point it is time to define standard start
+standard start will include
+a factory with priority being on a newly introduced factory 
+<mission 6 would start with the veh factory over bot as an example>
+some basic solar and wind may also be included
+<br>
+unless specified standard starts will not include t2 factories
+<br>
+there will be one nano at most 
+the commander is garrenteed 
