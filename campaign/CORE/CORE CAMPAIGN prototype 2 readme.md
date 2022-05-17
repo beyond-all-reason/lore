@@ -72,7 +72,18 @@ For example a nobuild mission will have sigificant time factoring but no resourc
 next topic because this is going to be a discussion. (zow and bel already had this a few times.)
 There will be a tutorial series of missions outside of either campaign that will go over the very fundamental basics of an RTS. The reason for doing so is simple, what will be conveyed in the campaign is somewhat relliant on knowing the fundamentals of an rts. 
 <br></br>
-Each mission will have a play out section as to how the mission would work. mission Briefing will have WIN/LOSS/BONUS objectives listed.The format is **Mission Briefing**,**STARTING TRIGGER**, **MIDDLE TRIGGER**(possibly with numbers), **ENDING TRIGGER**. This is an effort to show how a mission would progress. If triggers are not possible, then consider them as to how each mission would proceed in a single stage. 
+Each mission will have a play out section as to how the mission would work. mission Briefing will have WIN/LOSS/BONUS objectives listed.The format is **Mission Briefing**,**STARTING TRIGGER**, **MIDDLE TRIGGER**(possibly with numbers), **ENDING TRIGGER**. This is an effort to show how a mission would progress. If triggers are not possible, then consider them as to how each mission would proceed in a single stage.
+
+
+<br>
+
+constant triggers are recurring triggers. mission 7 rewards the player each time they get a burrow. the player recieve metal and units. contsant tiggers are divided by enemy/player/ally/neutral.
+
+<br>
+
+
+
+
 <br></br>
 Units when given/unlocked will have a link on the name for what the unit is(we all got screwed by the renaming effort :D). This is to also note how the mission was conceptually put together. 
 <br></br>
@@ -89,16 +100,23 @@ As such when considering balance changes, it is heavily reccomended that you kee
 <br>
 
 ### standard start definition ###
-this is a catch all for 
+this is a catch all for a basic start
 
 
-at this point it is time to define standard start
-standard start will include
-a factory with priority being on a newly introduced factory 
+* at this point it is time to define standard start
+* standard start will include
+* a factory with priority being on a newly introduced factory 
+
+* some basic solar and wind may also be included
+* unless specified standard starts will not include t2 factories
+
+* there will be one nano at most 
+* the commander is garrenteed 
 <mission 6 would start with the veh factory over bot as an example>
-some basic solar and wind may also be included
-<br>
-unless specified standard starts will not include t2 factories
-<br>
-there will be one nano at most 
-the commander is garrenteed 
+
+## standard walking config ##
+* player is given commander without build list 
+* commander will regen energy faster than normal
+* commander gun may be better 
+* commander gun may be a different type
+* commander hp regen is increased
