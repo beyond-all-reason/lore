@@ -1,0 +1,664 @@
+Format
+When a unit is mentioned it is added to all missions after being mentioned
+
+Scoring is basically how much effective metal did you produce during the campaign run
+
+The lower the score the better
+Effective metal produced on the E part will be 
+energy produced/6
+
+Also there will be a par score for each mission
+Par score will be known after its been finished once
+
+
+ths campaign is scraped in favour of another one
+
+Mission one 
+=============================================
+ core ( this is then locked in for the run
+=============================================
+Initial tutorial and limited access to units
+=============================================
+Player has 2 ai teammates with a fairly strong eco advantage compared to the enemies 2 ai
+Player gets awakened in the middle of the fight and has to push to a certain point
+At that point they will have a factory a mex 3 solars 
+An ai teammate will drop in 2 nanos for assisting the factory
+=============================================
+Player win condition
+Kill enemy commander
+=============================================
+Lose condition 
+Player loses their commander
+=============================================
+Bonus objectives
+Win in 5 minutes 
+Don't lose more than 2 units
+Mission end
+Mission two
+=============================================
+Available units
+Only KBOTS 
+Infantry Rocket  constructor TICK
+=============================================
+Economy
+Wind generator basic solar resource storage
+Kbot factory
+=============================================
+Defense buildings
+LLT 
+Improved laser tower (beamer or double llt
+Radar
+camera
+walls
+=============================================
+MAP
+Frozen FORD V2
+=============================================
+Features
+Several bases were destroyed on this map
+But never reclaimed
+=============================================
+Enemy 
+Single factory
+With some eco and a nano turret
+Cannot make cons or has a commander
+=============================================
+Win condition 
+Enemy factory destroyed
+=============================================
+Bonus objectives
+Win in 15 mins
+Reclaim 1500 metal
+Produce 20 units
+=============================================
+Notes and goals of the mission
+Early intro to eco and reclaim 
+Mission end
+
+
+Mission 3
+Asymmetrical warfare
+=============================================
+Player regains 2 ai teammate who will attempt to kill their opponents 
+=============================================
+Player gets access to a new bot 
+Rezz bot
+=============================================
+The ai are in a stalemate 
+As such 
+The players goal is to kill a significant amount of resourcing and possibly factory before 
+Player route to victims base includes a fair amount of turrets and some units
+=============================================
+This is to teach the player of the importance of rezzing and rocket bot play
+=============================================
+Win condition
+Kill both enemy commanders
+=============================================
+Lose condition
+Both allied teammates commanders die
+or
+Player commander dies
+=============================================
+Bonus objectives
+Capture an enemy factory
+Win in 10 mins
+=============================================
+Mission end
+
+
+Mission 4
+Walking mission turned defend the objective for time
+=============================================
+MAP 
+LV412
+=============================================
+Player needs to get commander to a specific location
+Think mission 3 of SC2 Wings of Liberty campaign 
+But first player must reach a point on the map to start
+=============================================
+Players get to use a few new bot
+PLASMA, WARRIOR
+Turrets 
+HLT JAMMER Lightning/flamethrower 
+=============================================
+IF ARM
+START CONDITION
+Player starts with
+1 Rez bot
+1 Warrior
+3 Flea
+2 rocket bots
+=============================================
+IF CORE
+START CONDITION
+3 Plasma bots
+4 infantry
+1 rez bot
+2 rockets
+=============================================
+Lose condition 
+Defend objective lost
+Or 
+Player commander dies
+=============================================
+When the player reaches the objective they are given both a VEH AND BOT factory 
+In the veh plant they can build
+ARTY ROVER LIGHT TANK 
+=============================================
+THE player must defend the objective on the map for 15 mins until t2 reinforcements from allied teammates come in
+Player is to then push out and kill the enemy bases
+=============================================
+Bonus objectives
+Kill the enemy coms before allied reinforcements com in
+Protect the both geos 
+Objective doesn't take damage
+
+
+
+Mission 5
+Save your allies
+Intro to airplay mission and complex eco management 
+=============================================
+Units introduced
+BOT
+AA BOT 
+AIR
+ALL AIR 
+ECOBUILDINGS 
+T1AIR FACTORY NANO t1METALMAKER ADVSOLAR t1GEO
+Defenses 
+All t1 aa turrets
+=============================================
+Player features a small starting base
+=============================================
+The enemy cannot attack the player nor do they have access to mobile aa or can build new aa turrets
+=============================================
+Player must raid and support their allies as they attempt to kill enemy coms 
+Enemy bases feature a large amount of aa 
+The player must side step the aa to kill enemy economy
+The mission will also allow for the player to pick up an allied com at the start. (goal is to make the player aware that they can pick up allied coms
+=============================================
+Win condition
+Enemy commanders dead
+=============================================
+Lose condition 
+An allied commander dies 
+Or
+ player commander dies
+=============================================
+Bonus objectives 
+Cause 100 enemy wind generators to die 
+=============================================
+Mission end
+
+
+Mission 6 
+Navy time
+=============================================
+Players get 
+Navy
+All t1 units
+ECO
+TIDAL WATERNANO WATERMCONVERTER
+Defenses
+All water turrets
+=============================================
+Player is given a small starting base 
+No starting nano
+=============================================
+Player must scout and find enemy commander operating in the area 
+The enemy commander has everything that the player has (no holding back now)
+=============================================
+Notes about the map
+There will be a fleet of naval wrecks that the player or enemy commander can rezz or reclaim. This fleet will be placed near the player
+
+=============================================
+win condition
+Kill enemy commander within 20 mins
+=============================================
+Lose condition
+20 minutes have passed
+Or
+ player commander dies
+=============================================
+Bonus objectives
+Resurrect destroyed fleet
+Kill the enemy commander in 12 mins
+=============================================
+Mission end
+
+
+Mission 7 ( t2 time
+Mission returns with ai teammates pushing hard on folsom dam
+Player starts with
+T1 kbot factory
+1 nano
+Some amount of wind 
+Goal is to allow the player to tech this mission 
+=============================================
+Notes about Enemy AI conditions
+Wont have t2 factory or t2 units available ]
+They can get t2 units by rezzing
+=============================================
+PLAYER GETS
+CORE 
+For t2 kbot lab
+FIEND MORTY CAN CON  spiders
+=============================================/
+ARM 
+For t2 kbot lab
+SPRINTER WELDER HOUND CON spiders 
+=============================================b
+FOR BOTH FACTIONS
+ECO
+T2 GEO T2 METAL MAKER 
+Defenses 
+T1
+All remaining turrets 
+Except for 
+Support launcher that kills scouts
+=============================================
+Lose condition 
+ALLIED COMMANDER dies
+OR 
+PLAYER COMMANDER dies
+=============================================
+Mission end
+
+
+MISSION 8
+TAFFY 3
+=============================================
+Player starts in an established forward base that can defend itself from early rushes 
+Unknown to the player but known to the enemy
+There are Raptors here
+Raptors have 9 roosts that spawn units
+The player must seek out the roosts and eliminate them before the queen becomes angered 
+Killing the roosts prevent the queen from spawning 
+While player is dealing with the roosts
+The enemy commander will attempt to take out the player in an effort to get access to killing the roosts
+=============================================
+Enemy commander start 
+only t1 units but does have a t2 con that can make the same turrets as the player. Enemy commander will start with just the commander and has to build up its area.
+=============================================
+The player has 20 mins to kill the roosts before the queen spawns 
+Queen anger will only rise with time.
+Roosts will not respawn
+=============================================
+New units
+ECO 
+Fusion (and its other forms decoy fusion for example underwater fusion)
+=============================================
+Win conditions 
+Player kills all roosts 
+And 
+Kills enemy commander
+And queen is not alive
+=============================================
+Lose condition
+The queen becomes angered (this will force a loss so let it happen
+The player commander dies
+=============================================
+Bonus objectives 
+Kill the enemy commander before killing a roost
+Kill 5 roosts in 12 mins
+=============================================
+Mission end
+
+
+MISSION 9
+DOOM AND GLOOM
+=============================================
+Walking mission
+Player is given several vehicles and bots
+Plus a special mobile juno launcher
+The player cannot build anything 
+=============================================
+Arm
+Ambassador x2
+Mobile jammer 
+Mobile radar
+Mobile juno launcher
+ Maverick x2
+rezz bots x3
+=============================================
+CORE
+Negotiator
+Mobile jammer 
+Mobile radar
+Mobile juno launcher
+Duck x4 
+Rezbot x3
+=============================================
+The enemy has a ton of defenses in the region 
+The player must weave and kill to get the the end point
+The player must get both the commander and mobile juno to the objective
+=============================================
+The commander here will have a special amount of energy gen and storage to allow for radar and jammer bot to work
+=============================================
+Goal of the mission is to add additional emphasis on good micro and unit retention. This mission will have unique bonus objective for each faction
+=============================================
+Bonus objective time 
+=============================================
+CORE BONUS OBJECTIVES
+KILL 3 fusions (fusions can only be killed by ducks and will help the player progress faster through the mission. It will not be known that they are underwater fusions.)
+Don't lose more than 1 duck
+=============================================
+ARM BONUS OBJECTIVES
+Get a maverick to 100% xp
+CAPTURE 3 fusions (fusions will be placed in the same spots
+=============================================
+Bonus objectives for both factions 
+Win in 15 mins
+=============================================
+WIN CONDITION 
+Get both commander and juno launcher to objective point
+=============================================
+LOSE CONDITION 
+DON'T GET TO THE POINT IN 20 minutes
+Mission 11
+A return to the front 
+=============================================
+First multi stage mission (2 stages) 
+=============================================
+Stage one 
+Player joins a losing battle against the enemy 
+The player starts with no units or buildings
+The player must build up and turn the battle around
+The player is given access to some t2 tanks now
+=============================================
+Wind conditions of stage one 
+Player survives
+Allied commanders survives
+=============================================
+Stage 2 
+How the turn tables
+The player must now push and win the fight for their allied commander
+=============================================
+Both factions
+New units time
+For veh
+`Basic arty
+Stealthy tactical missile launchers
+Flak tank
+radar / jammer 
+CONSTRUCTOR
+Any remaining t1 tanks that have not been given
+=============================================
+For ARM 
+Lightning tank
+Heavy tank
+=============================================
+For CORE
+Medium amphib tank
+Heavy tank 
+=============================================
+Win conditions 
+Stage 1
+Enemy onslaught blocked
+Stage 2
+Enemy commanders destroyed
+=============================================
+Lose conditions 
+Allied commander lost 
+Player commander lost
+=============================================
+Bonus objectives
+Kill the unguarded fusions before the onslaught is defeated
+Use mines to kill 15 units
+=============================================
+Mission end
+
+
+Mission 12
+PARADISE LOST
+=============================================
+Map paradise lost
+=============================================
+Naval mission (shield and sword mission)
+=============================================
+Player starts in an established position in the center of the map
+The player must break the siege that they are in and evacuate the objectives. The player must break out and get to the objective before they are overrun. After 20 mins if the player has not been able to retreat the t3 units out they will receive a nuke to the face. The player may still win after the nuke lands, but it will be a far shorter time frame for them.
+=============================================
+Player is given some addition turrets 
+=============================================
+Both factions units
+Cruiser LongRangeBattleSUB AASHIQ FastAssualtSUB SiegeCruiser
+DEFENSES
+All t1 turrets now if they have not been included 
+Also juno
+All mines including naval mines
+T2 side
+Advance torpedo launcher
+=============================================
+ARM
+Defenses
+Emp launcher 
+=============================================
+Core 
+TAC launcher 
+=============================================
+The player is given 
+Several t3 amphibious bots
+(arm is Marauder)
+Core is Shiva)
+=============================================
+Goal is to all t3 amphib bots to a point on the map far away from the center
+=============================================
+WIN conditions
+Get commander and t3 prototypes away from the battlefield
+=============================================
+Lose condition 
+Player commander is lost 
+A prototype is destroyed and irrecoverable
+=============================================
+Bonus objectives
+Win after the Bright light appears
+Or win in 15 mins(i don't like mutually exclusive bonus objectives. 
+Dgun a battleship
+=============================================
+End mission
+
+
+Mission 13
+Defend the prototypes
+=============================================
+After the player evacs from the losing battle they are now tasked with establishing a new front line against the enemy commander
+=============================================
+New for both units 
+All remaining t2 veh 
+NAVAL units 
+ALL but the Flagship for both factions
+HOVER
+All units
+DEFENSES
+All remaining turrets
+=============================================
+The established base that the player starts with is a hover factory
+The players main objective with the hover start is to spam their way into getting better turrets and better economy going
+=============================================
+Win condition
+Survive till allied reinforcements arrive (30 mins)
+=============================================
+Lose condition 
+Lose commander 
+Lose a prototype in an irrecoverable way
+=============================================
+Bonus objective 
+Kill 3 battleships with hovercraft
+Reach an income of 200 metal per second by the 20 min mark
+Produce 100 fast attack hovercraft within 8 mins
+=============================================
+Mission end
+
+
+Mission 14
+On the advantage
+=============================================
+The player is tasked with establishing a new forward base and wiping out the enemy resourcing and defenses(first stage). Second stage is to wipe out the special unit that arrives into the area(juggernaut).
+=============================================
+The player starts with a fair amount of reclaim in the starting area
+The enemy has a few rezz bots 
+=============================================
+New units both factions
+T3 lab 
+T3 amphib bot
+Economy
+AFUS
+=============================================
+The starting region features several resurrectable buildings/units
+1x afus wreck
+5x t2 metal converter wrecks
+1x t3 lab for 
+About 800 metal rocks
+=============================================
+Win conditions 
+Resurrect the afus
+And 
+Kill all enemy units
+And resurrect t3 lab
+=============================================
+Lose conditions 
+Player commander dies
+Afus wreck gets reclaimed
+=============================================
+Mission end
+
+
+Mission 15 
+DUEL ACCEPTED
+=============================================
+The player receives a challenge from an allied commander
+The enemy this time is an allied commander.
+This fight for dominance is to test the player and see if they are qualified to become a leader of the faction.
+=============================================
+The player must 1v1 from a fresh start  against a strong ai
+=============================================
+Map BARR
+=============================================
+Win conditions 
+Enemy factory destroyed
+=============================================
+Lose conditions 
+ENEMY COMMANDER KILLED
+or
+Player factory destroyed
+Or 
+Player commander killed
+Or 20 mins has elapsed
+=============================================
+Bonus objectives
+Win in 10 mins 
+Have double the effective income of the enemy commander for 2 mins
+=============================================
+Mission end
+
+
+Mission 16
+TEST RUN
+=============================================
+No build mission 
+The player must use the T3 units given to kill the enemy commander while said enemy commander is vs an allied commander 
+The allied commander is set to lose slowly 
+The player must win faster than the allied commander loses
+=============================================
+UNIVERSAL STARTING UNITS
+Commander
+2x spybot
+3x rezz bots
+AFUS FROM ALLY
+MOBILE JUNO LAUNCHER 
+1x jammer veh
+1x radar veh
+=============================================
+ARM STARTING UNITS
+2x razor
+1x vanguard 
+3x sniper bots
+=============================================
+CORE STARTING UNITS
+3x shiva
+Catapult
+5x arbiter
+=============================================
+The enemy features some unit reinforcements and heavy amounts of turrets
+=============================================
+Notes 
+The player cannot affect the fight going on between the allied commander vs the enemy commander as that fight is occurring in a separate lane
+Spybots can be used as emp bombs at some points to speed up the progress. The allied commander will replace said spybots.
+=============================================
+Win conditions
+Kill the commander
+=============================================
+Lose conditions
+Allied commander killed 
+Or 
+Player commander killed
+=============================================
+Bonus objectives
+Win in 15 mins
+Don't lose more than 2 spybots
+=============================================
+Mission end
+
+
+Mission 17
+DUEL on entrenched plains
+=============================================
+The player and allied commanders have recently discovered a high value region to control 
+=============================================
+MAP entrenched plains
+=============================================
+Everyone starts on a fresh start 
+The player and their allies must kill the enemy commanders
+=============================================
+New units for both factions
+Everything at this point
+=============================================
+Notes
+This is a dueling mission might be cut 
+=============================================
+The player has 2 allied commanders vs 3 enemy commanders
+That's all that needs to be said
+=============================================
+Win conditions 
+All enemy commanders defeated
+=============================================
+Lose conditions 
+Allied commander killed 
+Or 
+player commander killed
+=============================================
+Bonus objectives
+Build the geo at the center 
+=============================================
+End mission
+
+
+Mission 18 
+SEND THEM TO PACKING
+=============================================
+The final installation of the enemy has been found
+=============================================
+Map GHENNA RISING
+=============================================
+The player and their allies must assault the final installation of the enemy and kill the commanders before they evacuate to space.
+=============================================
+Starting conditions 
+Fresh starts for allies
+Lava starts raised but goes down after 5 mins
+=============================================
+Win conditions 
+Kill the space elevator in 30 mins 
+=============================================
+Lose conditions
+Player commander dies
+=============================================
+Notes the allied commanders dying has a high risk of occuring because of the lava. So this mission breaks the trend of allied commanders surviving rule
+=============================================
+Bonus objectives
+Kill the defending enemy commander 
+Capture the space elevator (hidden objective with an instant win when this occurs)
+=============================================
+Mission end
+
